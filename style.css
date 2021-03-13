@@ -9,6 +9,7 @@ body{
     margin: 0 auto;
     font-size: 16px;
 }
+
 header {
     text-align: center;
     border-bottom: 1px grey solid;
@@ -52,7 +53,9 @@ footer {
 #bullet-color{
     color: black;
 }
-
+a:link{
+    color: red;
+}
 /*table styling*/
 
 table{
